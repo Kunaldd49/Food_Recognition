@@ -1,3 +1,4 @@
+Some things need to be modified for ex the data set and it can be more easier if we break the different logical parts of coding
 🥗 Food Item Recognition & Calorie Estimation Model
 📌 Project Overview
 This project aims to develop an intelligent deep learning-based system that can identify food items from images and estimate their calorie content, enabling users to make informed dietary decisions and track their nutrition effectively.
